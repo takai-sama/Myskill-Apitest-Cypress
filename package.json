@@ -1,0 +1,20 @@
+{
+  "name": "myskill-apitest-cypress",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "panji maulana putra",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "12.1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "dependencies": {
+    "socket.io": "^4.7.4"
+  }
+}
